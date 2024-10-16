@@ -34,3 +34,15 @@ p{
 span{
     color: #febe01;
 }
+
+div{
+    background: red;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    border: 10px solid black;
+}
+
+body{
+    margin: 0px;
+}
